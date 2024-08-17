@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
 );
 
 app.get('/hora', (req, res) => {
-    const ciudades = ['Asia/Tokyo', 'America/Argentina/Buenos_Aires', 'America/Santiago'];
+    const ciudades = ['America/Asuncion' , 'Asia/Tokyo', 'America/Argentina/Buenos_Aires', 'America/Santiago' , 'America/Bogota'];
     const hora = ciudades.map(ciudad => {
         return moment().tz(ciudad).format('HH:mm:ss');
     });

@@ -1,0 +1,11 @@
+{
+  "name": "talento_tech-desarrollo_web_fullstack",
+  "version": "1.0.0",
+  "description": "- Introducción al Desarrollo Web.\r - Conceptos de HTML5.\r - Estructura de una página HTML5\r - Etiquetas comunes (Títulos, párrafos, listas y enlaces)\r - Incorporación de Imágenes, videos y embebidos (iframes, embed, video, img, figure)\r - Formulario en HTML y sus elementos.\r - Semántica HTML5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
